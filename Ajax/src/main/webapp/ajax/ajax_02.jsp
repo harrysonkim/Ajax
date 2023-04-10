@@ -92,7 +92,7 @@
 	<button value="=" onclick="calc();">=</button>
 	<hr>
 
-	<!-- AJAX 요청에 대한 으답을 적용할 DIV -->
+	<!-- AJAX 요청에 대한 응답을 적용할 DIV -->
 	<div id="resultLayout">
 	</div>
 
