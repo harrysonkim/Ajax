@@ -2,7 +2,7 @@
 	pageEncoding="UTF-8"%>
 <% request.setCharacterEncoding("UTF-8"); %>
 
-<% String userName = request.getParameter("userName"); %>
+<% String userName = request.getParameter("username"); %>
 
 <div>
 	<%= "안녕하세요, " + userName + "님" %>
